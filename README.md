@@ -2,7 +2,7 @@
 <br>
 
 # macos-bash-setup
-Script to install latest bash via brew and set it as your default shell and for root.
+Script to install latest bash via [brew](https://brew.sh/) (assumes you have set this up before) and set it as your default shell and for root.
 
 See the following for more information:
 
